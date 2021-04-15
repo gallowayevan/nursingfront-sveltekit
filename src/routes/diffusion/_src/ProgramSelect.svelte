@@ -1,7 +1,6 @@
 <script>
 	import { createEventDispatcher } from 'svelte';
 	import { group } from 'd3-array';
-	import { fontColor } from './utilities.js';
 
 	const dispatch = createEventDispatcher();
 
